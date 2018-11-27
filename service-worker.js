@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mobilenet-tfjs-node-sls/precache-manifest.b78f78881cb895beb2cc628466d6d185.js"
+  "/mobilenet-tfjs-node-sls/precache-manifest.5ce2f9a00b190dff0c1bbe5921b64815.js"
 );
 
 workbox.clientsClaim();

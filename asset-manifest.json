@@ -1,15 +1,15 @@
 {
-  "main.css": "/mobilenet-tfjs-node-sls/static/css/main.4f61e923.chunk.css",
-  "main.js": "/mobilenet-tfjs-node-sls/static/js/main.d323e30e.chunk.js",
-  "main.js.map": "/mobilenet-tfjs-node-sls/static/js/main.d323e30e.chunk.js.map",
+  "main.css": "/mobilenet-tfjs-node-sls/static/css/main.79f2782a.chunk.css",
+  "main.js": "/mobilenet-tfjs-node-sls/static/js/main.87c8d330.chunk.js",
+  "main.js.map": "/mobilenet-tfjs-node-sls/static/js/main.87c8d330.chunk.js.map",
   "static/js/1.de741bea.chunk.js": "/mobilenet-tfjs-node-sls/static/js/1.de741bea.chunk.js",
   "static/js/1.de741bea.chunk.js.map": "/mobilenet-tfjs-node-sls/static/js/1.de741bea.chunk.js.map",
   "runtime~main.js": "/mobilenet-tfjs-node-sls/static/js/runtime~main.4644200a.js",
   "runtime~main.js.map": "/mobilenet-tfjs-node-sls/static/js/runtime~main.4644200a.js.map",
   "static/media/logo.svg": "/mobilenet-tfjs-node-sls/static/media/logo.5d5d9eef.svg",
   "static/media/sound.mp3": "/mobilenet-tfjs-node-sls/static/media/sound.d3b3ccc5.mp3",
-  "static/css/main.4f61e923.chunk.css.map": "/mobilenet-tfjs-node-sls/static/css/main.4f61e923.chunk.css.map",
+  "static/css/main.79f2782a.chunk.css.map": "/mobilenet-tfjs-node-sls/static/css/main.79f2782a.chunk.css.map",
   "index.html": "/mobilenet-tfjs-node-sls/index.html",
-  "precache-manifest.b78f78881cb895beb2cc628466d6d185.js": "/mobilenet-tfjs-node-sls/precache-manifest.b78f78881cb895beb2cc628466d6d185.js",
+  "precache-manifest.5ce2f9a00b190dff0c1bbe5921b64815.js": "/mobilenet-tfjs-node-sls/precache-manifest.5ce2f9a00b190dff0c1bbe5921b64815.js",
   "service-worker.js": "/mobilenet-tfjs-node-sls/service-worker.js"
 }

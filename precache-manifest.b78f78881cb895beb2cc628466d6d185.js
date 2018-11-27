@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "77b415b47e0277aea2bc",
-    "url": "/mobilenet-tfjs-node-sls/static/css/main.64f716fc.chunk.css"
+    "revision": "d323e30e733a1f173801",
+    "url": "/mobilenet-tfjs-node-sls/static/css/main.4f61e923.chunk.css"
   },
   {
-    "revision": "77b415b47e0277aea2bc",
-    "url": "/mobilenet-tfjs-node-sls/static/js/main.77b415b4.chunk.js"
+    "revision": "d323e30e733a1f173801",
+    "url": "/mobilenet-tfjs-node-sls/static/js/main.d323e30e.chunk.js"
   },
   {
     "revision": "de741bea41e3a72aeb34",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/mobilenet-tfjs-node-sls/static/media/sound.d3b3ccc5.mp3"
   },
   {
-    "revision": "aef83ebefa49b72255a9248181699d91",
+    "revision": "5ba179fde6eba9b0bf32a06b196b950d",
     "url": "/mobilenet-tfjs-node-sls/index.html"
   }
 ];
